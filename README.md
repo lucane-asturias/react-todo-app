@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is intended to study React while following Colt Steele's React course on Udemy.
 
 ### Deployment
 
